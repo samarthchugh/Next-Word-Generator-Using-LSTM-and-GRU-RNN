@@ -75,5 +75,5 @@ The goal is to understand and compare the performance of **LSTM** and **GRU** ne
 
 # 🙋 Author
 ### Samarth Chugh
-📧[samarthchugh049@gmail.com](samarthchugh049@gmail.com)
-[Samarth Chugh](www.linkedin.com/in/-samarthchugh)
+- 📧[samarthchugh049@gmail.com](samarthchugh049@gmail.com)
+- [Samarth Chugh](www.linkedin.com/in/-samarthchugh)
